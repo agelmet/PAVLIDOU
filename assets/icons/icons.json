@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/zenia-pavlidou-neurografia-logo.svg"
+ },
+ "source_md5": "db044d9134fa5fbc589f5bc2df219f17",
+ "version": "bb3f0a1a",
+ "tile": "#FBF6EF",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "ffb501a9c57ea1d49272e54eda8515f8"
+ ],
+ "made": "2026-11-19"
+}
